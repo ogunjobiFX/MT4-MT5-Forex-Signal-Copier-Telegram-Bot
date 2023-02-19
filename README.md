@@ -33,7 +33,6 @@ I have created a YouTube video where you can view me showcasing how to install a
 
 ***YouTube Demonstration:*** INSERT LINK HERE
 
-**(For Window Users: It is recommended to use a Git Bash terminal for installation)**
 
 **1. Create a Telegram Bot**
 
