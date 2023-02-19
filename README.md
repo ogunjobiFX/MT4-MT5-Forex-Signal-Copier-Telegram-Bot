@@ -29,7 +29,9 @@ Prerequisites:
 - MetaAPI Account (https://app.metaapi.cloud/sign-up)
 - Render Account (https://dashboard.render.com/)
 
-***YouTube Demonstration:*** https://www.youtube.com/watch?v=QTCco30M3BY&t=5s
+I have created a YouTube video where you can view me showcasing how to install and run this bot for your own use.
+
+***YouTube Demonstration:*** INSERT LINK HERE
 
 **(For Window Users: It is recommended to use a Git Bash terminal for installation)**
 
