@@ -42,7 +42,7 @@ Start a conversation with @BotFather on Telegram and create a new bot with a uni
 
 **4. Scroll down to 'Public Git repository' and paste the following URL**
 ```
-INSERT THE PUBLIC GITHUB LINK HERE TOSIN
+https://github.com/ogunjobiFX/MT4-Forex-Signal-Copier-Telegram-Bot
 ```
 
 **5. Set up Render Application**
@@ -50,7 +50,7 @@ INSERT THE PUBLIC GITHUB LINK HERE TOSIN
 ```
 1. Create a unique name for your application, e.g: mt4tradingbot
 2. Ensure build command is pip install -r requirements.txt
-3. Change start command to python run.py
+3. Change start command to: python run.py
 4. Select create web service
 ```
 **6. Set Up Application Environment Variables**
