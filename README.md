@@ -56,7 +56,7 @@ INSERT THE PUBLIC GITHUB LINK HERE TOSIN
 ```
 **6. Set Up Application Environment Variables**
 
-After creating your web service, navigate to enviornment tab and set the following
+After creating your web service, navigate to enviornment tab and set the following:
 |Key  | Value |
 | ------------- | ------------- |
 | PYTHON_VERSION | 3.8.2 |
