@@ -24,8 +24,6 @@ This bot is deployed using Render.
 
 Prerequisites:
 - Telegram Account 
-- Python 3 (https://www.python.org/downloads/)
-- Git (https://git-scm.com/downloads)
 - MetaAPI Account (https://app.metaapi.cloud/sign-up)
 - Render Account (https://dashboard.render.com/)
 
