@@ -29,7 +29,7 @@ Prerequisites:
 
 I have created a YouTube video where you can view me showcasing how to install and run this bot for your own use.
 
-***YouTube Demonstration:*** INSERT LINK HERE
+***YouTube Demonstration:*** (https://www.youtube.com/watch?v=GqyreruUUQg)
 
 
 **1. Create a Telegram Bot**
