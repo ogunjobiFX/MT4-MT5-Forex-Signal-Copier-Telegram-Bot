@@ -10,7 +10,7 @@ This bot is deployed using Render.
 
 # Features 💡
 - Copy trades directly from Signal providers or personal analysis 
-- Interact with MetaAPI to retrieve MT4 account information (Balance, Equity, Open Positions, etc.)
+- Interact with MetaAPI to retrieve MT4/MT5 account information (Balance, Equity, Open Positions, etc.)
 - Place all 6 order type trades from Telegram bot (Market Buy/Sell, Limit Buy/Sell, Buy/Sell Stop)
 - Calculate risk-to-reward using stop loss and take profit and display size in pips and profit/loss (USD)
 - Place up to two take profits and use half position size for each to maintain the risk-to-reward ratio
@@ -42,7 +42,8 @@ Start a conversation with @BotFather on Telegram and create a new bot with a uni
 
 **4. Scroll down to 'Public Git repository' and paste the following URL**
 ```
-https://github.com/ogunjobiFX/MT4-Forex-Signal-Copier-Telegram-Bot
+https://github.com/ogunjobiFX/
+-Forex-Signal-Copier-Telegram-Bot
 ```
 
 **5. Set up Render Application**
