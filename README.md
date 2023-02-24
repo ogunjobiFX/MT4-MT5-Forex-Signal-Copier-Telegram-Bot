@@ -1,4 +1,4 @@
-# MT4 FX Signal Copier Telegram Bot 💻💸
+# MT4/MT5 FX Signal Copier Telegram Bot 💻💸
 
 This Telegram bot allows users to enter trades directly from Telegram and get a detailed look at the risk-to-reward ratio with profit, loss, and calculated lot size. You can change specific settings such as allowed symbols, risk factor, and more from your personalized Python script and environment variables.
 
