@@ -41,3 +41,4 @@ wcwidth==0.2.5
 websockets==9.1
 Werkzeug==2.1.2
 yarl==1.7.2
+typing-extensions
